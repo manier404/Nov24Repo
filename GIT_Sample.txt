@@ -1,1 +1,2 @@
 GIT _DEMO
+Included line from local repo
